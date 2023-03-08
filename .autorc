@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sir-argupta",
+  "repo": "container-9ppl29e",
+  "name": "sir-argupta",
+}
